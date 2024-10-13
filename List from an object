@@ -1,0 +1,4 @@
+#Making a list from an existing object
+A=("hello")
+a=list(A)
+print (a)
