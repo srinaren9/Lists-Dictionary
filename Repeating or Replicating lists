@@ -1,0 +1,4 @@
+# Repeating or Replicating lists
+a=[2,4,6,8]
+a=a*3
+print(a)
