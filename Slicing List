@@ -1,0 +1,11 @@
+# Slicing the lists
+# L[start : stop : step] creates a list slice out of list L with elements 
+# falling between indexes 
+# start and stop not including stop
+k=[2,4,5,6,7,8,9,10]
+seq1=k[2:5]
+print (seq1)
+seq2=k[1:6]
+print(seq2)
+seq3=k[3:6]
+print(seq3)
