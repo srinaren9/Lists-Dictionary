@@ -1,0 +1,3 @@
+#Making a dictionary
+sports={"cricket": "virat", "soccer":"messi"}
+print(sports)
