@@ -1,0 +1,4 @@
+#Program to print all the keys and values of a dictionary
+m={'Fruit': 'Apple', 'Place':'Hyderabad','Sports':'Cricket','Food':'Biryani'}
+for key in m:
+    print(key, " ##### ",m[key])
