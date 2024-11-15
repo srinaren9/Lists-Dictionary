@@ -1,0 +1,11 @@
+# Write a program to search given element in the list and give the index
+k=[5,10,15,20,25,30,35,40,45,50]
+print("Given list : \n ",k)
+length=len(k)
+element=int(input("Enter Search element "))
+for i in range(0,length):
+    if element==k[i]:
+        print(element, "Found at index", i)
+        break
+else:
+    print(element, "Not found in the given list")
