@@ -1,0 +1,5 @@
+# Program to create a dictonary and then display the keys and values seperately
+m={'Fruit':'Water melon','Place':'Hyderabad','Sports':'Cricket','Food':'Biryani'}
+print(m)
+print(m.keys())
+print(m.values())
