@@ -1,0 +1,4 @@
+# Adding the element to the dictionary 
+sports['Tennis']="Saniya Mirza"
+print(sports)
+len(sports)
