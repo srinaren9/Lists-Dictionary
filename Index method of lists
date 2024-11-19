@@ -1,0 +1,4 @@
+1) Index method :It given the index of the number in the list
+k=[10,20,30,40,50]
+print(k.index(20))
+print(k.index(50))
