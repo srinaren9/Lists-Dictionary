@@ -1,0 +1,5 @@
+# 3) Updating element to a list 
+list=[5,10,15,20]
+print(list)
+list[2]=11
+print(list)
