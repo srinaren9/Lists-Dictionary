@@ -1,0 +1,9 @@
+#Extend method
+# The extend method is also used to adding multiple elements 
+# (given in the form of a list). 
+# But it is different from append().
+t1=['a','b','c']
+t2=['d','e']
+t1.extend(t2)
+print("t1 =",t1)
+print("t2 =",t2)
