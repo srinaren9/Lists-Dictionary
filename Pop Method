@@ -1,0 +1,10 @@
+#Pop Method
+# Syntax : List.pop(<index>)
+t1=[10,20,30,40,50]
+print(t1)
+t1.pop(1)
+print(t1)
+t1.pop()
+print(t1)
+t1.pop(-1)
+print(t1)
