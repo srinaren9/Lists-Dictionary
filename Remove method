@@ -1,0 +1,9 @@
+#Remove method
+t1=[10,20,30,40,50]
+print(t1)
+t1.remove(20)
+print(t1)
+t2=[10,30,30,40,40,50]
+print(t2)
+t2.remove(30)
+print(t2)
