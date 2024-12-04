@@ -1,0 +1,9 @@
+#Reverse Method
+k=[10,20,30,40,50]
+print("Original list \n", k)
+m.reverse()
+print("Reversed String \n ",m)
+p=['a','e','i','o','u']
+print(p)
+p.reverse()
+print("Reversed vowels \n",p)
