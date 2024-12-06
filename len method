@@ -1,0 +1,4 @@
+#using len method for a dictionary
+sports={'cricket': 'virat', 'soccer':'messi'}
+print(sports)
+len(sports)
