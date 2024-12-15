@@ -1,0 +1,9 @@
+#Adding elements to Dictionary:
+m={'Fruit': 'Water melon', 'Place':'Hyderabad','Sports':'Cricket'}
+print(m)
+m['Country']='India'
+print(m)
+m['Pincode']=500040
+print(m)
+m['email id']='abcd@gmail.com'
+print(m)
