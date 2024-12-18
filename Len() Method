@@ -1,0 +1,5 @@
+#The len() method : This method is used to find the length 
+# of the given dictionary
+sports={'cricket': 'virat', 'soccer':'messi'}
+print(sports)
+len(sports)
