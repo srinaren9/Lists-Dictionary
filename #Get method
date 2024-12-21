@@ -1,0 +1,5 @@
+# The get method():
+sports={'cricket': 'virat', 'soccer': 'messi', 'Tennis': 'Saniya Mirza'}
+sports.get('Tennis')
+sports.get('soccer')
+sports['cricket']
