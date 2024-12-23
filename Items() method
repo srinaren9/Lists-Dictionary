@@ -1,0 +1,5 @@
+#The items() method : It returns all the items in the dictionary
+# at a sequence of (key,value). 
+# Note : This is not returned in particular order.
+sports={'Cricket': 'Virat', 'Soccer': 'Messi', 'Tennis': 'Saniya Mirza'}
+sports.items()
