@@ -1,0 +1,4 @@
+#The values() method : This method returns all the values from the 
+# dictionary as a sequence ( a list) 
+sports={'Cricket': 'Virat', 'Soccer': 'Messi', 'Tennis': 'Saniya Mirza'}
+sports.values()
