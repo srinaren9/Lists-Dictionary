@@ -1,0 +1,16 @@
+#The update() method :This method merges key : value pairs from the new 
+# dictionary into the original dictionary, adding or replacing as needed. 
+# The items in the new dictionary are added to the old one and override any 
+# item already there with the same keys
+sports1={'Cricket': 'Virat', 'Soccer': 'Messi', 'Tennis': 'Saniya Mirza'}
+print(sports1)
+sports2={'Cricket': 'Rohit', 'soccer':'Messi','kabaddi':"Rahul"}
+print(sports2)
+print("sports1.update(sports2)")
+sports1.update(sports2)
+print("sports1 :", sports1)
+print("sports2 : ",sports2)
+print("sports2.update(sports1)")
+sports2.update(sports1)
+print("sports2 : ",sports2)
+print("sports1 :", sports1)
